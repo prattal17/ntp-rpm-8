@@ -11,7 +11,7 @@ I downloaded the latest version of the NTP Package from their HTTP archive: http
 
 As of this writing ( July 25 2023), the most recent stable version is 4.2.8p17.
 
-Docker run Command: docker run -v $PWD:/outsideWorld -it ntprpm8
+Docker run Command: docker run -it ntprpm8
 
 
 
