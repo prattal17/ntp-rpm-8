@@ -13,6 +13,8 @@ As of this writing ( July 25 2023), the most recent stable version is 4.2.8p17.
 
 Docker run Command: docker run -v $PWD:/outsideWorld -it ntprpm8
 
+Once you open the Docker container, the RPM will be in ~/rpmbuild/RPMS, you can copy it to the folder called outsideWorld in the base directory and that file is linked to the directory where you ran the Docker file.
+
 
 
 
