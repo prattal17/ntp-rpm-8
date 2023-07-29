@@ -15,6 +15,6 @@ Docker run Command: docker run -v $PWD:/outsideWorld -it ntprpm8
 
 Once you open the Docker container, the RPM will be in ~/rpmbuild/RPMS, you can copy it to the folder called outsideWorld in the base directory and that file is linked to the directory where you ran the Docker file.
 
-
+Additional resources and descriptions of why I did certain things ca be found in the Wiki.
 
 
